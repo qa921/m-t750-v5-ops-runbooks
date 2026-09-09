@@ -1,0 +1,1 @@
+Confirm exact deployment ID, revision, build events, config, then observed state after redeploy.

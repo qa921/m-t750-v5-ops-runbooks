@@ -1,2 +1,1 @@
-# m-t750-v5-ops-runbooks
-M-T750-V5 operations runbooks reference candidate.
+# Ops runbooks — M-T750-V5\nCurrent deploy verification requires inspecting the failed deployment, not trusting a historic green state.
